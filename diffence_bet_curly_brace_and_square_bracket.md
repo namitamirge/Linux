@@ -34,8 +34,8 @@ so for (( $avg > 50 )) is equivalent to [ $avg -gt 50 ]
  
 
 #####psudo code.
-[Result_psudocode](hook://C:/Users/namita/awsclass)
-[]
+![Result psudocode](C:\Users\namita\awsclass\result_psudocode.excalidraw)
+
 
 
 

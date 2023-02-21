@@ -1,5 +1,5 @@
 
-#### What is the difference between using (()) and []] 
+#### What is the difference between using (()) and [] 
 
 ##### (())-used for numerical comparision.
 ######if you want to use bracket you need to use -gt,-le,-eq operators.

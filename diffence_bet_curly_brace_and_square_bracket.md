@@ -2,7 +2,7 @@
 #### What is the difference between using (()) and [] 
 
 ##### (())-used for numerical comparision.
-######if you want to use bracket you need to use -gt,-le,-eq operators.
+###### if you want to use bracket you need to use -gt,-le,-eq operators.
 In below example 
 if(( $avg > 50 )) works but (( $avg -gt 50 )) doesn't  
 so for (( $avg > 50 )) is equivalent to [ $avg -gt 50 ]
@@ -33,7 +33,7 @@ so for (( $avg > 50 )) is equivalent to [ $avg -gt 50 ]
     fi
  
 
-#####pseudo code.
+##### pseudo code.
 ![Result pseudocode](./image/pseudo_flowchart.png)
 
 

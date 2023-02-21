@@ -1,7 +1,7 @@
 
-####What is the difference between using ((condition)) and [condition ] 
+#### What is the difference between using (()) and []] 
 
-#####(())-used for numerical comparision.
+##### (())-used for numerical comparision.
 ######if you want to use bracket you need to use -gt,-le,-eq operators.
 In below example 
 if(( $avg > 50 )) works but (( $avg -gt 50 )) doesn't  

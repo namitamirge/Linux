@@ -33,8 +33,8 @@ so for (( $avg > 50 )) is equivalent to [ $avg -gt 50 ]
     fi
  
 
-#####psudo code.
-![Result psudocode](./image/result_psudocode.excalidraw)
+#####pseudo code.
+![Result pseudocode](./image/pseudo_flowchart.png)
 
 
 

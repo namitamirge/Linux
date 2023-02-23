@@ -27,9 +27,9 @@ We will go in details
 
 ![copiedkey](./image/key.jpg)
 
-7. Now sudo ssh into ec2-user.
+7.# Now sudo ssh into ec2-user.
 
-![sshec2user](./image/ssh.jpg)
+![ssh ec2user](./image/ssh.jpg)
 
 8. Enter Password
 
@@ -41,7 +41,7 @@ We will go in details
 
 ## Step 2: By coping Downloads folder to ubuntu terminal and connect ec2-user
 
-1. From above steps follow 1 t0 3
+
 1. Start the lab
 
 ![launch lab](./image/lauchAWS.jpg)
@@ -58,7 +58,7 @@ We will go in details
 
 ![command](./image/command.jpg)
 
-8. Now you can acess Downloads folder from desktop
+8. Now you can access Downloads folder from desktop
 
 ![access](./image/access.jpg)
 

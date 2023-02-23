@@ -1,11 +1,11 @@
-## This file has information about how to run ssh ec2-user instance on ubunto
-#### There are two ways to run ec2-user instance on ubunto
-Step 1- Make one file and copy labsuser ssh key and then access ec2-user
-Step 2- Copy whole Downloads desktop folder and access in ubunto and then ssh ec2-user instance.
+## This file has information about how to run ssh ec2-user instance on ubuntu
+#### There are two ways to run ec2-user instance on ubuntu
+ 1- Make one file and copy labsuser ssh key and then access ec2-user
+ 2- Copy whole Downloads desktop folder and access in ubunto and then ssh ec2-user instance.
 
 We will go in details 
 
-### Step 1- Create labsuser.pem file and copy labsuser ssh key and Access
+###  1. Create labsuser.pem file and copy labsuser ssh key and Access
 
 1. Start the lab
 ![launch lab](./image/lauchAWS.jpg)
@@ -39,7 +39,7 @@ We will go in details
 ![logged in](./image/loggedin.jpg)
 
 
-## Step 2: By coping Downloads folder to ubuntu terminal and connect ec2-user
+## 2. By coping Downloads folder to ubuntu terminal and connect ec2-user
 
 
 1. Start the lab
@@ -49,7 +49,7 @@ We will go in details
 2. Click on AWS
 3. Click on show
 4. Download the labsuser.pem file to Downloads desktop folder.
-5. Open ubunto terminal
+5. Open ubuntu terminal
 6. Create download folder
 
 ![createdownload](./image/createdownloads.jpg)

@@ -62,7 +62,7 @@ We will go in details
 
 ![access](./image/access.jpg)
 
-9. run sudo  ssh command to login sudo ssh ec2-user@ipaddress -i labsuser.pem
+9. Run sudo ssh command to login sudo ssh ec2-user@ipaddress -i labsuser.pem
 
 ![login](./image/login.jpg)
 

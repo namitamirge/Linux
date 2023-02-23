@@ -66,4 +66,4 @@ We will go in details
 
 ![login](./image/login.jpg)
 
-10. Congratiulations!!! you logged in as ec2-user.
+10. Congratulations!!! you logged in as ec2-user.

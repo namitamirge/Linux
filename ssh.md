@@ -2,14 +2,14 @@
 There are multiple ways to make ssh- agent running.
 ### You can check this by running in Windows PowerShell:
 
-1   Get-Service ssh-agent
+1.   Get-Service ssh-agent
 
-2   And then check the output of status is not      running.
+2.   And then check the output of status is not      running.
 
 
 ![tocheckagentrun](./image/Agent_1.jpg)
 
-3   Then check that the service has been disabled by running
+3.  Then check that the service has been disabled by running
 
      Get-Service ssh-agent | Select StartType
 
